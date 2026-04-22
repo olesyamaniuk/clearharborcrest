@@ -1,5 +1,5 @@
 $(function () {
-  $(".o-i-gallery-list").slick({
+  $(".o-o-gallery-list").slick({
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -10,7 +10,7 @@ $(function () {
     dots: false,
     centerMode: true,
     cssEase: "linear",
-    prevArrow: ".o-i-gallery-list-left",
-    nextArrow: ".o-i-gallery-list-right",
+    prevArrow: ".o-o-gallery-list-left",
+    nextArrow: ".o-o-gallery-list-right",
   });
 });
